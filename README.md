@@ -5,11 +5,11 @@ This repository provides the code used to produce the graphs of the
 paper: 
 **An Exit Strategy from the COVID-19 Lockdown based on Risk-sensitive
 Resource Allocation**
-[pdf version](/exit_strategy.pdf)
+([pdf version is avialable](/exit_strategy.pdf))
 
 ## code
 
-Running the python file:
+Running the python file (python3 please):
 ```python
 python mixedSEIR.py
 ```
